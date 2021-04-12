@@ -1,7 +1,7 @@
 # Projetos-Mega
 Projetos desenvolvidos durante meu estagio na Mega Isenções
 
-###fromContacttoDeal.py – Aplicação em linguagem Python
+### fromContacttoDeal.py – Aplicação em linguagem Python
 
 Utilizando as bibliotecas python ‘bitrix24’ e ‘openpyxml’, desenvolvi uma aplicação cujo objetivo é copiar os campos ‘telefone’ e ‘email’ do Contato para o Negocio desse mesmo cliente, para isso foi extraída uma planilha com todos os Ids dos negócios que seria necessário fazer essa cópia. Para o programa conseguir ler os dados da planilha esse programa deve ser executado localmente.
 
